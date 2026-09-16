@@ -34,4 +34,4 @@ Machine Learning project for predicting student academic risk.
 ## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vajrapu-manikanta-ba28473b0/
-- CodeChef: https://github.com/vajrapumanikanta-dev
+- CodeChef: https://www.codechef.com/users/kl2500090135
