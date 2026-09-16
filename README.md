@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mani 👋
 
-<!--
-**vajrapumanikanta-dev/vajrapumanikanta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & ML Student | 🤖 Aspiring Agentic AI Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+### Smart Expense Tracker
+Python-based expense management application.
+
+### Student Performance Predictor
+Machine Learning project for predicting student academic risk.
+
+## 📚 Currently Learning
+
+- Generative AI
+- RAG
+- AI Agents
+- LLMs
+- APIs
+- MLOps
+
+## 🔗 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+- CodeChef: YOUR_CODECHEF_LINK
